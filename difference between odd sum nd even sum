@@ -1,0 +1,17 @@
+#include<stdio.h>
+void main()
+{
+inti,even,odd;
+i=1;
+even=odd=0;
+while(i<=10)
+{
+printf("%d",i);
+if(%2!=0)
+odd=odd+i;
+else
+even=even+i;
+i++;
+}
+printf("\n even sum=%d\n odd sum=%d",even odd);
+}
